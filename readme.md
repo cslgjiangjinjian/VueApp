@@ -1,5 +1,8 @@
+
 1、npm(cnpm) install
+
 2、开发环境 npm run dev
+
 3、生产环境 npm run build
 <!-- 以下是提示 -->
 
