@@ -1,3 +1,4 @@
+vue + webpack 的基础打包demo
 
 1、npm(cnpm) install
 
