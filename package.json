@@ -1,12 +1,16 @@
 {
   "name": "appvue",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --host 127.0.0.1 --port 9090 --inline --hot",
     "build": "webpack -p",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cslgjiangjinjian/VueApp.git"
   },
   "author": "jjj",
   "license": "ISC",
